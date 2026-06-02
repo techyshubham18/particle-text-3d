@@ -1,36 +1,52 @@
-# 🌌 Particle to 3D Text Animation
+🌌 Particle to 3D Text Animation
 
-An interactive 3D particle network that dynamically morphs into custom text using **Three.js** and **GSAP**. Type any word, and watch thousands of particles assemble to form your text in a smooth, fluid animation.
+An interactive 3D particle network built with Three.js and GSAP that transforms thousands of particles into custom text. Type any word and watch particles smoothly morph from a rotating cosmic sphere into stunning 3D typography.
 
-![Project Preview](https://techyshubham18.github.io/particle-text-3d/)
----
+✨ Features
 
-## ✨ Features
+- Dynamic text morphing (up to 20 characters)
+- Thousands of animated particles
+- Smooth GSAP-powered transitions
+- Interactive 3D scene using Three.js
+- Automatic reset to a rotating particle sphere
+- Fully responsive design for desktop and mobile
+- Modern glassmorphic user interface
 
-*   **Dynamic Text Morphing:** Enter any text (up to 20 characters) and watch particles morph into shape.
-*   **Fluid Physics:** Powered by `Three.js` for high-performance 3D rendering and vertex math.
-*   **Smooth Transitions:** Uses `GSAP` (GreenSock Animation Platform) for organic particle easing and movement.
-*   **Auto-Reset:** Automatically morphs back into a rotating cosmic sphere after a short delay.
-*   **Fully Responsive:** Perfectly adapts to any screen size or mobile viewport.
+🚀 Live Demo
 
-## 🛠️ Tech Stack
+"View on GitHub Pages" (https://techyshubham18.github.io/particle-text-3d/)
 
-*   **Frontend:** HTML5, CSS3 (Custom properties & modern layout)
-*   **3D Graphics:** [Three.js (r128)](https://threejs.org/)
-*   **Animations:** [GSAP (v3.7.1)](https://greensock.com/gsap/)
-*   **Fonts:** Inter (via Google Fonts)
+📁 Structure
 
----
+├── index.html      # Main layout and external libraries
+├── style.css       # UI styling and responsive design
+├── script.js       # Three.js scene and particle morphing logic
+├── README.md       # Project documentation
+└── .vscode/
+    └── settings.json
 
-## 📁 Folder Structure
+🛠️ Tech Stack
 
-```text
-particle-text-3d/
-│
-├── .vscode/
-│   └── settings.json       # VS Code Live Server configurations
-│
-├── index.html              # Core layout and external scripts
-├── script.js               # Three.js scene, particles, and morphing logic
-├── style.css               # Modern glassmorphic UI styling
-└── README.md               # Documentation
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Three.js (r128)
+- GSAP (v3.7.1)
+- Google Fonts (Inter)
+
+📦 Usage
+
+No build process required. Simply clone the repository and open it in a browser:
+
+git clone https://github.com/techyshubham18/particle-text-3d.git
+cd particle-text-3d
+
+Then open "index.html" directly or run it using a local server such as VS Code Live Server.
+
+🙏 Credits
+
+Developed and designed by Shubham Dangi.
+
+📸 Instagram: @shubhx_404error
+
+Feel free to connect for projects, collaborations, and creative web experiences.
