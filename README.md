@@ -2,8 +2,7 @@
 
 An interactive 3D particle network that dynamically morphs into custom text using **Three.js** and **GSAP**. Type any word, and watch thousands of particles assemble to form your text in a smooth, fluid animation.
 
-![Project Preview](https://via.placeholder.com/800x450.png?text=Particle+Animation+Preview) *(Tip: Replace this with your actual project screenshot or GIF later!)*
-
+![Project Preview]https://techyshubham18.github.io/particle-text-3d/
 ---
 
 ## ✨ Features
